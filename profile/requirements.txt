@@ -1,2 +1,7 @@
+Plaintext
+
 streamlit
+numpy
 pillow
+scipy
+matplotlib
